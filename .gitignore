@@ -1,0 +1,18 @@
+# 构建产物与本地备份（非源码）
+build/
+backup/
+*.app/
+*.icns
+*.iconset/
+
+# macOS
+.DS_Store
+.AppleDouble
+__MACOSX/
+
+# Swift / Xcode
+.build/
+DerivedData/
+*.xcodeproj/
+*.swp
+*.o
